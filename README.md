@@ -125,14 +125,6 @@ Run the main program from your CLI:
 
 
 
----
 
-## Contact & License
-
-For technical questions, refer to inline code comments or project guides.
-
-License: Provided for educational and technical assignment use. See repository for details.
-
----
 
 
